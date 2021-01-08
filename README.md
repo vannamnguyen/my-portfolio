@@ -1,1 +1,1 @@
-https://github.com/vannamnguyen/my-portfolio
+https://vannamnguyen.github.io/my-portfolio/
